@@ -1,0 +1,61 @@
+categories:
+  - name: "Housing & Utilities"
+    subcategories:
+      - "Rent/Mortgage"
+      - "Property Tax/HOA"
+      - "Electric/Gas/Water/Trash"
+      - "Internet/Phone"
+    rules: []
+
+  - name: "Groceries / Food at Home"
+    subcategories:
+      - "Groceries"
+      - "Convenience Store"
+    rules: []
+
+  - name: "Transportation"
+    subcategories:
+      - "Gas/Charging"
+      - "Maintenance/Repairs"
+      - "Transit/Rideshare"
+      - "Parking/Tolls"
+    rules: []
+
+  - name: "Insurance & Healthcare"
+    subcategories:
+      - "Health/Dental/Vision Premiums"
+      - "Prescriptions"
+      - "Medical Visits/Procedures"
+    rules: []
+
+  - name: "Lifestyle & Personal"
+    subcategories:
+      - "Dining out & Coffee"
+      - "Clothing/Beauty/Grooming"
+      - "Entertainment/Streaming"
+      - "Gifts/Celebrations"
+      - "Hobbies/Memberships/Gym"
+      - "Gardening/Home Depot"
+      - "Vacation Travel"
+    rules: []
+
+  - name: "Savings & Investments"
+    subcategories:
+      - "Emergency Fund"
+      - "Retirement (401k/IRA)"
+      - "Brokerage/Other Investments"
+      - "Sinking Funds (future travel/repairs)"
+    rules: []
+
+  - name: "Kids / Pets / Family Care"
+    subcategories:
+      - "Childcare/School"
+      - "Kids activities/clothes"
+      - "Pet food/vet/care"
+      - "Family support/elder care"
+    rules: []
+
+  - name: "Payment"
+    subcategories:
+      - "Payment"
+    rules: []
