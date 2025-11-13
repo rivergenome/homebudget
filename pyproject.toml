@@ -1,0 +1,18 @@
+[project]
+name = "homebudget"
+version = "0.1.0"
+description = "Home budgeting utilities for family use"
+authors = [
+    {name = "Rio Jeane"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter (>=1.1.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
